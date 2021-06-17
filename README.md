@@ -23,12 +23,12 @@
 
 ### Page 1 - Origin of Internet
 
-    1. Menu Link
-    2. Page Title: Origin of the Internet
-    3. Description
-    4. Keywords
-    5. Page Layout: F
-    6. Page Content: [Origin of Internet](../blob/main/page1.md)
+   1. Menu Link
+   2. Page Title: Origin of the Internet
+   3. Description
+   4. Keywords
+   5. Page Layout: F
+   6. Page Content: [Origin of Internet](../blob/main/page1.md)
     
 ### Page 2 - Growth of applications to use the Internet
 
