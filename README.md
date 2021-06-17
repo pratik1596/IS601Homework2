@@ -19,7 +19,7 @@
 
 ## 3. __Website Main Menu__
 
-![HomePage Image](https://github.com/sainarasimhak/IS601Homework2/raw/main/mainpagebg.jpg "Home-Page Background")
+![HomePage Image](https://github.com/sainarasimhak/IS601Homework2/raw/main/homepagebg.jpg "Home-Page Background")
 
 ## 4. __Pages__
 
