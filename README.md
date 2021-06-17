@@ -2,8 +2,8 @@
 ## 1. __General Information__
 ### 1. __Names of Creators__
 
-    Sai Narsimha Rao Konda
-    Pratik Kulkarni
+   * Sai Narsimha Rao Konda
+   * Pratik Kulkarni
 
 ### 2. __The concept of the website__
 
@@ -19,43 +19,45 @@
 
 ## 3. __Website Main Menu__
 
+![HomePage Image](https://github.com/sainarasimhak/IS601Homework2/raw/main/homepagebg.jpg "Home-Page Background")
+
 ## 4. __Pages__
 
 ### Page 1 - Origin of Internet
 
-    1. Menu Link
-    2. Page Title: Origin of the Internet
-    3. Description
-    4. Keywords
-    5. Page Layout: F
-    6. Page Content: Link
+   1. Menu Link
+   2. Page Title: Origin of the Internet
+   3. Description
+   4. Keywords
+   5. Page Layout: F
+   6. Page Content: [Origin of Internet](../blob/main/page1.md)
     
 ### Page 2 - Growth of applications to use the Internet
 
-    1. Menu Link
-    2. Page Title: Applications
-    3. Description
-    4. Keywords
-    5. Page Layout: F
-    6. Page Content: Link
+   1. Menu Link
+   2. Page Title: Applications
+   3. Description
+   4. Keywords
+   5. Page Layout: F
+   6. Page Content: [Growth of applications to use the Internet](../blob/main/page2.md)
     
 ### Page 3 - Creation of the Browser 
 
-    1. Menu Link
-    2. Page Title: Browser
-    3. Description
-    4. Keywords
-    5. Page Layout: F
-    6. Page Content: Link
+   1. Menu Link
+   2. Page Title: Browser
+   3. Description
+   4. Keywords
+   5. Page Layout: F
+   6. Page Content: [Creation of the Browser](../blob/main/page3.md)
     
 ### Page 4 - Companies emerge
 
-    1. Menu Link
-    2. Page Title: Companies
-    3. Description
-    4. Keywords
-    5. Page Layout: F
-    6. Page Content: Link
+   1. Menu Link
+   2. Page Title: Companies
+   3. Description
+   4. Keywords
+   5. Page Layout: F
+   6. Page Content: [Companies emerge](../blob/main/page4.md)
     
 ## 5. __Sidebar Content__
 
