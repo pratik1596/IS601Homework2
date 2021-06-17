@@ -2,8 +2,8 @@
 ## 1. __General Information__
 ### 1. __Names of Creators__
 
-    Sai Narsimha Rao Konda
-    Pratik Kulkarni
+   * Sai Narsimha Rao Konda
+   * Pratik Kulkarni
 
 ### 2. __The concept of the website__
 
@@ -19,8 +19,7 @@
 
 ## 3. __Website Main Menu__
 
-![alt text][background]
-[background]: ../raw/main/mainpagebg.jpg "Home-Page Background"
+![HomePage Image](https://github.com/sainarasimhak/IS601Homework2/raw/main/mainpagebg.jpg "Home-Page Background")
 
 ## 4. __Pages__
 
