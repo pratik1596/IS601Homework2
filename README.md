@@ -19,7 +19,7 @@
 
 ## 3. __Website Main Menu__
 
-![HomePage Image](https://github.com/sainarasimhak/IS601Homework2/raw/main/homepagebg.jpg "Home-Page Background")
+![HomePage Image](https://github.com/pratik1596/IS601Homework2/raw/main/homepagebg.jpg "Home-Page Background")
 
 ## 4. __Pages__
 
@@ -30,7 +30,7 @@
    3. Description
    4. Keywords
    5. Page Layout: F
-   6. Page Content: [Origin of Internet](https://github.com/sainarasimhak/IS601Homework2/blob/main/page1.md)
+   6. Page Content: [Origin of Internet](https://github.com/pratik1596/IS601Homework2/blob/main/page1.md)
     
 ### Page 2 - Growth of applications to use the Internet
 
@@ -39,7 +39,7 @@
    3. Description
    4. Keywords
    5. Page Layout: F
-   6. Page Content: [Growth of applications to use the Internet](https://github.com/sainarasimhak/IS601Homework2/blob/main/page2.md)
+   6. Page Content: [Growth of applications to use the Internet](https://github.com/pratik1596/IS601Homework2/blob/main/page2.md)
     
 ### Page 3 - Creation of the Browser 
 
@@ -48,7 +48,7 @@
    3. Description
    4. Keywords
    5. Page Layout: F
-   6. Page Content: [Creation of the Browser](https://github.com/sainarasimhak/IS601Homework2/blob/main/page3.md)
+   6. Page Content: [Creation of the Browser](https://github.com/pratik1596/IS601Homework2/blob/main/page3.md)
     
 ### Page 4 - Companies emerge
 
@@ -57,7 +57,7 @@
    3. Description
    4. Keywords
    5. Page Layout: F
-   6. Page Content: [Companies emerge](https://github.com/sainarasimhak/IS601Homework2/blob/main/page4.md)
+   6. Page Content: [Companies emerge](https://github.com/pratik1596/IS601Homework2/blob/main/page4.md)
     
 ## 5. __Sidebar Content__
 
@@ -74,4 +74,17 @@
 
 ## 8. __Footer Menu__
 
+   * Pages
+   * Privacy Statement
+   * Other Useful Info
+   * About Us
+   * Contact Us ( Instagram, Facebook, LinkedIn)
+
 ## 9. __About Page__
+
+   1. Menu Link: About us
+   2. Page Title About us
+   3. Description: Information abut Pratik and Sai, and other information as required in the assignment.
+   4. Keywords: About us, Pratik Kulkarni, Sai Narasimha Rao K
+   5. Page Layout: Z Layout
+   6. Page Content: [About Us](https://github.com/pratik1596/IS601Homework2/blob/main/AboutUs.md)
