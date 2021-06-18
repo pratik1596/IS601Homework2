@@ -11,11 +11,11 @@
 
 ## 2. __Website General Information__
 
-    1. Description
-    2. Keywords
-    3. Website Title
-    4. Page Title: 
-    5. Hero Text
+   1. Description: This website gives you information on the histroy of the Internet from its invention to today's world.
+   2. Keywords: WWW, Facebook, Internet, ARPA, Yahoo, Google, Circuit, HTML,etc.
+   3. Website Title: *__The Internet Revolution__*
+   4. Page Title: Internet Revolution
+   5. Hero Text
 
 ## 3. __Website Main Menu__
 
