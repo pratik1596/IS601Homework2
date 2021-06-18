@@ -31,7 +31,20 @@
    4. Keywords
    5. Page Layout: F
    6. Page Content: [Origin of Internet](https://github.com/pratik1596/IS601Homework2/blob/main/page1.md)
+
+#### 5. __Sidebar Content__
+
+#### 6. __Sidebar Image__
+
+    1. Image Link
+    2. Image Alt Attribute
+    3. Sidebar Text
     
+#### 7. __Page Image__
+
+    1. Page Image Link
+    2. Page Alt Attribute
+     
 ### Page 2 - Growth of applications to use the Internet
 
    1. Menu Link
@@ -58,19 +71,6 @@
    4. Keywords
    5. Page Layout: F
    6. Page Content: [Companies emerge](https://github.com/pratik1596/IS601Homework2/blob/main/page4.md)
-    
-## 5. __Sidebar Content__
-
-## 6. __Sidebar Image__
-
-    1. Image Link
-    2. Image Alt Attribute
-    3. Sidebar Text
-    
-## 7. __Page Image__
-
-    1. Page Image Link
-    2. Page Alt Attribute
 
 ## 8. __Footer Menu__
 
