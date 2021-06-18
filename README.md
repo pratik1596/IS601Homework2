@@ -32,15 +32,15 @@
    5. Page Layout: F
    6. Page Content: [Origin of Internet](https://github.com/pratik1596/IS601Homework2/blob/main/page1.md)
 
-#### 5. __Sidebar Content__
+#### * __Sidebar Content__
 
-#### 6. __Sidebar Image__
+#### * __Sidebar Image__
 
     1. Image Link
     2. Image Alt Attribute
     3. Sidebar Text
     
-#### 7. __Page Image__
+#### * __Page Image__
 
     1. Page Image Link
     2. Page Alt Attribute
@@ -72,7 +72,7 @@
    5. Page Layout: F
    6. Page Content: [Companies emerge](https://github.com/pratik1596/IS601Homework2/blob/main/page4.md)
 
-## 8. __Footer Menu__
+## 5. __Footer Menu__
 
    * Pages
    * Privacy Statement
@@ -80,7 +80,7 @@
    * About Us
    * Contact Us ( Instagram, Facebook, LinkedIn)
 
-## 9. __About Page__
+## 6. __About Page__
 
    1. Menu Link: About us
    2. Page Title About us
