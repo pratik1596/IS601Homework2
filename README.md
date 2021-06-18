@@ -7,7 +7,7 @@
 
 ### 2. __The concept of the website__
 
-    Gives an overview on the History of Internet.
+   This website will take you through the history of the internet i.e. how it was created?, who created it?, etc. The invention of the internet to the various developments it made through history and how it is an essesntial part of the 21st century. The website will give an insight on various technologies and phases of the internet.
 
 ## 2. __Website General Information__
 
