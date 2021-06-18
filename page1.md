@@ -18,4 +18,4 @@ During the times of war Internet was considered as a communications tool of war 
 
 More data about the origin of internet ..................
 
-![Origin of Internet](https://www.google.com/url?sa=i&url=https%3A%2F%2Fslideplayer.com%2Fslide%2F10372419%2F&psig=AOvVaw0pbaUkyGX2H7O4q25Rwx_v&ust=1624064839670000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIjS_Zn_n_ECFQAAAAAdAAAAABAD "Internet Origin")
+![Origin of Internet](https://github.com/sainarasimhak/IS601Homework2/raw/main/internet_origin.jpg "Internet Origin")
