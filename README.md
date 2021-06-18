@@ -36,8 +36,8 @@
 
    1. Menu Link
    2. Page Title: Applications
-   3. Description
-   4. Keywords
+   3. Description: This page tells us about how the internet was used to develop various new technologies.
+   4. Keywords: ARPA, TCP, IP, circuit, packet, etc.
    5. Page Layout: F
    6. Page Content: [Growth of applications to use the Internet](https://github.com/sainarasimhak/IS601Homework2/blob/main/page2.md)
     
@@ -45,8 +45,8 @@
 
    1. Menu Link
    2. Page Title: Browser
-   3. Description
-   4. Keywords
+   3. Description: The web page will tell us about the invention of browser and how it became one of the best technologies in the 21st century.
+   4. Keywords: browser, packet switching, ARPA net, BBN, WWW, IMPS, etc. 
    5. Page Layout: F
    6. Page Content: [Creation of the Browser](https://github.com/sainarasimhak/IS601Homework2/blob/main/page3.md)
     
@@ -54,8 +54,8 @@
 
    1. Menu Link
    2. Page Title: Companies
-   3. Description
-   4. Keywords
+   3. Description: The many companies that were created after the invention of the browser and World Wide Web(WWW).
+   4. Keywords: FAcebook, Yahoo, Google, Netscape, etc.
    5. Page Layout: F
    6. Page Content: [Companies emerge](https://github.com/sainarasimhak/IS601Homework2/blob/main/page4.md)
     
