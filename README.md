@@ -27,8 +27,8 @@
 
    1. Menu Link
    2. Page Title: Origin of the Internet
-   3. Description
-   4. Keywords
+   3. Description: This page will give information about how the internet came into existence.
+   4. Keywords: communication, war, email, chat groups, etc.
    5. Page Layout: F
    6. Page Content: [Origin of Internet](https://github.com/sainarasimhak/IS601Homework2/blob/main/page1.md)
     
