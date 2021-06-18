@@ -18,7 +18,7 @@
    5. Hero Text
 
 ## 3. __Website Main Menu__
-
+   *__The Internet Revolution__*
 ![HomePage Image](https://github.com/pratik1596/IS601Homework2/raw/main/homepagebg.jpg "Home-Page Background")
 
 ## 4. __Pages__
@@ -33,7 +33,12 @@
    6. Page Content: [Origin of Internet](https://github.com/pratik1596/IS601Homework2/blob/main/page1.md)
 
 #### * __Sidebar Content__
-
+    
+    1. Initial Research - Idea on world wireless system
+    2. Role of Military - ARPANET 
+    3. Creators - who started the project and contributed to the internet development
+    4. Transition to the current state
+ 
 #### * __Sidebar Image__
 
     1. Image Link
@@ -44,6 +49,7 @@
 
     1. Page Image Link
     2. Page Alt Attribute
+ ![Origin](https://cdn.britannica.com/s:800x1000/88/129488-050-6B1CA905/Internet-blue-screen-blog-society-history-media-2009.jpg "Origin")
      
 ### Page 2 - Growth of applications to use the Internet
 
@@ -84,7 +90,7 @@
 
    1. Menu Link: About us
    2. Page Title About us
-   3. Description: Information abut Pratik and Sai, and other information as required in the assignment.
+   3. Description: Information about Pratik and Sai.
    4. Keywords: About us, Pratik Kulkarni, Sai Narasimha Rao K
    5. Page Layout: Z Layout
    6. Page Content: [About Us](https://github.com/pratik1596/IS601Homework2/blob/main/AboutUs.md)
