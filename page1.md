@@ -17,3 +17,5 @@ During the times of war Internet was considered as a communications tool of war 
 ### __The Internet first originated in the year 1950.__
 
 More data about the origin of internet ..................
+
+![Origin of Internet](https://github.com/sainarasimhak/IS601Homework2/raw/main/internet_origin.jpg "Internet Origin")
